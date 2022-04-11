@@ -13,5 +13,5 @@ Install flutter in the follow directory on computer if src doesnt exit create it
 # Trouble shooting Bios
 Enable in your bios enable hardware emulation (only if emulator doesnt work)
 https://developer.android.com/studio/run/emulator-troubleshooting
-# Open Phonergy File in Android Studios
+Open Phonergy File in Android Studios
 # HAVE FUN!
