@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527353026160",
+    "project_id": "phoneappphonergy",
+    "storage_bucket": "phoneappphonergy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527353026160:android:e6dc61059bc121f32646b5",
+        "android_client_info": {
+          "package_name": "com.flutter.phonergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527353026160-oiv4q96ols7nua70a5vjm5rk1n7tm9nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQWfY19Ip19H3TyNEMzBtvKmEKK3a_Dbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527353026160-oiv4q96ols7nua70a5vjm5rk1n7tm9nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
